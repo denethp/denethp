@@ -25,13 +25,12 @@ Building intelligent robotic systems by combining embedded electronics, control 
 🔭 Currently working on:
 - **6-DOF Robotic Arm**
 - **Autonomous Micromouse Robot**
-- **Non-contact Ultrasonic Flow Measurement System**
 
 🌱 Currently learning:
 - ROS 2
 - Advanced Control Systems
 - System Identification & Modeling
-- Machine Learning for Robotics
+- Reinforcement Learning for Robotics
 
 💡 Interested in:
 - Robot Motion Planning
@@ -56,9 +55,8 @@ Building intelligent robotic systems by combining embedded electronics, control 
 - Encoder feedback and closed-loop control
 - Planetary gear and belt reduction mechanisms
 
-### 🌊 Ultrasonic Flow Meter
+### 🌊 Flow Meter
 - Non-invasive clamp-on flow measurement system
-- Ultrasonic time-of-flight measurement
 - IoT-enabled monitoring dashboard
 - ESP-based embedded implementation
 
