@@ -15,12 +15,11 @@ Building intelligent robotic systems by combining embedded electronics, control 
 🎓 Undergraduate in Electronic and Telecommunication Engineering at the **University of Moratuwa**
 
 🤖 Passionate about:
-- Autonomous Robotics
-- Embedded Systems
+- Robotics & Automation
 - Control Systems
+- Embedded Systems
 - Computer Vision
-- Intelligent Navigation
-- Mechatronics
+- Motion Planning & Navigation
 
 🔭 Currently working on:
 - **6-DOF Robotic Arm**
@@ -32,33 +31,24 @@ Building intelligent robotic systems by combining embedded electronics, control 
 - System Identification & Modeling
 - Reinforcement Learning for Robotics
 
-💡 Interested in:
-- Robot Motion Planning
-- SLAM and Localization
-- FPGA-based Robotics
-- Real-Time Systems
-
 ---
 
 ## 🏆 Featured Projects
 
+### 🦾 6-DOF Robotic Arm
+- Custom-designed 4 mm sheet-metal robotic manipulator
+- STM32H7-based real-time embedded motion control system
+- Inverse kinematics implementation
+- Encoder feedback with closed-loop position control
+- Planetary gear and belt reduction mechanisms
+
 ### 🤖 Autonomous Micromouse
 - High-speed autonomous maze-solving robot
+- STM32G4-based real-time embedded control system
 - Flood-fill path planning
 - Motion profiling and trajectory optimization
 - Kalman filter-based state estimation
 - Feedforward + PID motor control
-
-### 🦾 6-DOF Robotic Arm
-- Custom-designed robotic manipulator
-- Inverse kinematics implementation
-- Encoder feedback and closed-loop control
-- Planetary gear and belt reduction mechanisms
-
-### 🌊 Flow Meter
-- Non-invasive clamp-on flow measurement system
-- IoT-enabled monitoring dashboard
-- ESP-based embedded implementation
 
 ---
 
