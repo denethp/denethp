@@ -105,7 +105,7 @@ Building intelligent robotic systems by combining embedded electronics, control 
 
 📧 Email: **sadpriyadarshana@gmail.com**
 
-💼 LinkedIn: *Add your LinkedIn profile here*
+💼 LinkedIn: *[denethp](https://www.linkedin.com/in/deneth-priyadarshana/)*
 
 ---
 
