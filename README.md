@@ -24,6 +24,7 @@ Building intelligent robotic systems by combining embedded electronics, control 
 🔭 Currently working on:
 - **6-DOF Robotic Arm**
 - **Autonomous Micromouse Robot**
+- **ROS 2 Vision Based Line Follower**
 
 🌱 Currently learning:
 - ROS 2
