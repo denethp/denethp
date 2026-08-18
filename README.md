@@ -1,115 +1,86 @@
-<h1 align="center">Hi there 👋, I'm Deneth Priyadarshana</h1>
-
-<h3 align="center">
-Electronic & Telecommunication Engineering Undergraduate | Robotics Enthusiast | Embedded Systems Developer
-</h3>
+<h1 align="center">Deneth Priyadarshana</h1>
+<h3 align="center">Electronic & Telecommunication Engineering Undergraduate — University of Moratuwa</h3>
+<p align="center">
+Robotics · Embedded Systems · Control Systems · Computer Vision
+</p>
 
 <p align="center">
-Building intelligent robotic systems by combining embedded electronics, control engineering, and software.
+  <a href="mailto:sadpriyadarshana@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/deneth-priyadarshana/">LinkedIn</a> ·
+  <a href="https://github.com/denethp">GitHub</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-🎓 Undergraduate in Electronic and Telecommunication Engineering at the **University of Moratuwa**
+I'm an Electronic and Telecommunication Engineering undergraduate at the University of Moratuwa, focused on building intelligent robotic systems at the intersection of embedded electronics, control engineering, and software. My work spans motion control, sensor fusion, computer vision, and real-time embedded firmware — from custom-designed hardware through to the algorithms that drive it.
 
-🤖 Passionate about:
-- Robotics & Automation
-- Control Systems
-- Embedded Systems
-- Computer Vision
-- Motion Planning & Navigation
+**Currently working on:**
+- Autonomous Micromouse Robot — high-speed maze solving with flood-fill path planning
+- ROS 2 Vision-Based Line Following Robot
 
-🔭 Currently working on:
-- **6-DOF Robotic Arm**
-- **Autonomous Micromouse Robot**
-- **ROS 2 Vision Based Line Follower**
-
-🌱 Currently learning:
-- ROS 2
-- Advanced Control Systems
-- System Identification & Modeling
-- Reinforcement Learning for Robotics
+**Currently exploring:**
+- ROS 2 and advanced control systems
+- System identification and modeling
+- Reinforcement learning for robotics
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 🦾 6-DOF Robotic Arm
-- Custom-designed 4 mm sheet-metal robotic manipulator
-- STM32H7-based real-time embedded motion control system
-- Inverse kinematics implementation
-- Encoder feedback with closed-loop position control
-- Planetary gear and belt reduction mechanisms
+### 6-DOF Robotic Arm
+Computer vision–based robotic arm with a custom-designed 4 mm aluminium sheet-metal structure, driven by coordinated multi-axis motion control.
+- STM32-based embedded control system
+- Forward and inverse kinematics for object localization and manipulation
+- Closed-loop control with encoder feedback
+- Mechanical design in SOLIDWORKS, electronics in Altium Designer
 
-### 🤖 Autonomous Micromouse
-- High-speed autonomous maze-solving robot
-- STM32G4-based real-time embedded control system
-- Flood-fill path planning
+### Autonomous Micromouse Maze Solver
+Team project (PRISM) for high-speed exploration and optimal navigation of a 16×16 maze.
+- Real-time maze mapping and flood-fill path planning
 - Motion profiling and trajectory optimization
-- Kalman filter-based state estimation
-- Feedforward + PID motor control
+- Kalman filter–based state estimation
+- PID motor control (feedback + feedforward), tuned via MATLAB system modeling
+- Finalist — Micromaze 2.0 (IIT), Top 10 of the field
+
+### ROS 2 Vision-Based Line Following Robot
+Autonomous mobile robot using a Raspberry Pi 5 and camera-based computer vision for real-time navigation.
+- Modular ROS 2 nodes (rclcpp) for perception, decision-making, and control
+- OpenCV-based image processing for line detection
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Embedded & Hardware
+**Embedded & Hardware**
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
-</p>
+**Software & Web**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![ROS 2](https://img.shields.io/badge/-ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
 
-### Software & Web
+**Databases & Tools**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-</p>
-
-### Databases & Tools
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-</p>
+**Design & Engineering Software**
+Altium Designer · SOLIDWORKS · LTspice
 
 ---
 
-## 📊 GitHub Statistics
+## Contact
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=denethp&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denethp&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+- **Email:** sadpriyadarshana@gmail.com
+- **LinkedIn:** [deneth-priyadarshana](https://www.linkedin.com/in/deneth-priyadarshana/)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denethp&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **sadpriyadarshana@gmail.com**
-
-💼 LinkedIn: *[denethp](https://www.linkedin.com/in/deneth-priyadarshana/)*
-
----
-
-<p align="center">
-"Engineering intelligent machines to solve real-world problems."
-</p>
+<p align="center"><em>Engineering intelligent machines to solve real-world problems.</em></p>
