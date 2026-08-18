@@ -82,5 +82,3 @@ Altium Designer · SOLIDWORKS · LTspice
 
 - **Email:** sadpriyadarshana@gmail.com
 - **LinkedIn:** [deneth-priyadarshana](https://www.linkedin.com/in/deneth-priyadarshana/)
-
-<p align="center"><em>Engineering intelligent machines to solve real-world problems.</em></p>
